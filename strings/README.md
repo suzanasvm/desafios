@@ -3,6 +3,7 @@ Para rodar este desafio, você precisa instalar os modulos: re e textwrap.
 Para tanto, os comandos abaixo podem ser utilizados:
 
 pip install regex
+
 pip install textwrap3
 
 Você pode editar o arquivo desafio1.py:
