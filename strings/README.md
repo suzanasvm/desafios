@@ -7,8 +7,8 @@ pip install textwrap3
 
 Você pode editar o arquivo desafio1.py:
 
-1.Incluindo o limite maximo de caracteres na variável textSize.
-2.Incluindo o texto de preferência na variável text.
+1. Incluindo o limite maximo de caracteres na variável textSize.
+2. Incluindo o texto de preferência na variável text.
 
 # Desafio 1: Strings
 
